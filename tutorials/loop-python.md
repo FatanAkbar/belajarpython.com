@@ -44,7 +44,7 @@ for x in angka:
 #Contoh pengulangan for
 buah = ["nanas", "apel", "jeruk"]
 for makanan in buah:
-    print "Saya suka makan", makanan
+    print ("Saya suka makan", makanan)
 {% endhighlight %}
     
 ### Nested Loop
